@@ -71,7 +71,7 @@ with col3:
         step=1.0,
         help="Mobile cellular subscriptions per 100 people",
     )
-
+st.write("Inputs:", atms, internet, mobile)
 st.divider()
 
 # ── Prediction ─────────────────────────────────
